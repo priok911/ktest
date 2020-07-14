@@ -1,0 +1,3 @@
+# Project exclude paths
+/ktest/target/
+/out/
